@@ -1,0 +1,11 @@
+{
+  "globals" : {
+    "window" : true,
+    "JumpPunch" : true,
+    "Phaser" : true
+  },
+
+  "undef" : true,
+
+  "unused" : true
+}
